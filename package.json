@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "license": "UNLICENSED",
   "scripts": {
+    "test-1": "jest --no-cache -i task1",
+    "test-2": "jest --no-cache -i task2",
+    "test-3": "jest --no-cache -i task3",
+    "test-4": "jest --no-cache -i task4",
     "test": "jest --no-cache"
   },
   "devDependencies": {
